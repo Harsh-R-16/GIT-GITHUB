@@ -24,3 +24,5 @@ don't make git repo inside a git repository.
 
 git add and git commit.
 git commit -amend
+
+gitignore

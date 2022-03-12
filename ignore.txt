@@ -1,0 +1,11 @@
+what is in gitignore files
+we can add secrets api keys credentials 
+operating systems files
+log files(daily reports)
+dependencies files(packages and node modules files)
+
+we can ignore all
+
+folder name/ (/ needed so that git can understand that is a folder not a file.)
+filename 
+*.js all js files
