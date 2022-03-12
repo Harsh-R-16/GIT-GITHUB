@@ -4,3 +4,6 @@ if we do git commit then editor will open add type commit message.
 git log history of all commits that
 
 and git log --oneline for short history of commits
+
+git add file1 file2 and so on for particular changes
+git add . for all changes at one go.
