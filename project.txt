@@ -23,3 +23,6 @@ it will open in vs code editor to write commit message that is long so we can wr
 
 git log has also different options than--oneline for short history of hashh
 
+git commit -amend
+
+

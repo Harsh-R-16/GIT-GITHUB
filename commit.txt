@@ -14,3 +14,5 @@ so git add is used to decide how many changes we want as next commit so we can d
 working directory ma all changes
 staging area ma changes that we want in commit.
 repository ma changes that we have in staging area
+
+git commit -amend

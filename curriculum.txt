@@ -21,3 +21,4 @@ github hosting for git repository on web server
 
 git terminal vs gui terminal
 github desktop is git gui.
+git commit -amend

@@ -23,3 +23,4 @@ only make one git repo not all folder in repo because git will track all nested 
 don't make git repo inside a git repository.
 
 git add and git commit.
+git commit -amend
