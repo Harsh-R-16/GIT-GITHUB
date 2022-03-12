@@ -13,3 +13,5 @@ if we switch to different branch then last commit in that branch had head pointe
 git branch list all branches.
 git branch <branch name> to create a new branch
 it create branch but not switch to that branch
+
+this is from the NEW-BRANCH branch.
