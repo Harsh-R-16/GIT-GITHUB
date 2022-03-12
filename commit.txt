@@ -1,0 +1,16 @@
+git commit is different checkpoints.some changes between the two checkpoints known as commits.
+
+group different files with changes in one commits
+
+total 3 stages
+1. Working directory
+2. Staging area
+3. Repository
+
+we have made total 10 changes but we want to add only 6 changes to the repository
+than we use git add to add changes to staging areravis
+
+so git add is used to decide how many changes we want as next commit so we can decide that only this changes we want to add
+working directory ma all changes
+staging area ma changes that we want in commit.
+repository ma changes that we have in staging area
