@@ -1,0 +1,15 @@
+different people work in different branch and then merge there code in main branch.
+
+default branch on git is master branch
+default branch on github is main branch
+
+what is HEAD HEAD -> master
+it is pointer to current branch we are on.
+
+it is reference to last commit by default branch master branch last commit.
+
+if we switch to different branch then last commit in that branch had head pointer.
+
+git branch list all branches.
+git branch <branch name> to create a new branch
+it create branch but not switch to that branch

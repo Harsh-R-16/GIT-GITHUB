@@ -9,3 +9,6 @@ we can ignore all
 folder name/ (/ needed so that git can understand that is a folder not a file.)
 filename 
 *.js all js files
+
+master branch git  
+main branch github
