@@ -1,0 +1,6 @@
+git commit -m "message"
+if we do git commit then editor will open add type commit message.
+
+git log history of all commits that
+
+and git log --oneline for short history of commits

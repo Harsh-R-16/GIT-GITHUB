@@ -21,3 +21,5 @@ if delete .git then now init again as git repository.
 
 only make one git repo not all folder in repo because git will track all nested folder in the tha repository so no need to make all nested folder to git repo.
 don't make git repo inside a git repository.
+
+git add and git commit.
