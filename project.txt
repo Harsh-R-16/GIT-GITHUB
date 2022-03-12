@@ -7,3 +7,19 @@ and git log --oneline for short history of commits
 
 git add file1 file2 and so on for particular changes
 git add . for all changes at one go.
+
+atomic commit.
+try to to commit of only one changes so that it is possibleto navigate to that one Changes
+
+if we have more than one changes in commit than may be we lost our work in commits.
+
+focus on one thing or feature that message contain changes
+
+commit message in present tense.
+
+use git commit instead of git commit -m ""
+it will open in vs code editor to write commit message that is long so we can write easily long commit message.
+
+
+git log has also different options than--oneline for short history of hashh
+
