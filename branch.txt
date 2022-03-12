@@ -14,4 +14,10 @@ git branch list all branches.
 git branch <branch name> to create a new branch
 it create branch but not switch to that branch
 
+
 this is from the NEW-BRANCH branch.
+=======
+so head will be at both branches.
+
+git switch <branch name> to switch to branch name
+
