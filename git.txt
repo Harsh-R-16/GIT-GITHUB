@@ -1,0 +1,23 @@
+git log for all commits.
+git log --oneline to see all commits in one line.
+
+git config --global user.name "User Name"
+git config --global user.email "User Email"
+
+git --version
+
+start . command to open gui folder mode.
+open . command to open gui folder mode. in linux or mac
+code . to open all file of that repositories in vs code
+
+repository meaning folder we are working currently.
+
+git status and then git init.
+
+all hidden folder starts with . (dot).
+ls -a (a for all)
+
+if delete .git then now init again as git repository.
+
+only make one git repo not all folder in repo because git will track all nested folder in the tha repository so no need to make all nested folder to git repo.
+don't make git repo inside a git repository.

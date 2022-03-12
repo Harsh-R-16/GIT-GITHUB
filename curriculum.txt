@@ -1,0 +1,23 @@
+intro to git 
+commiting branching merging commit
+undoing changes 
+github intro 
+fetching and pulling 
+collaborating commits  
+git behind the scenes
+
+1. version control system tracks and manages changes to files over time.
+most popular versions control system is Git. free and open sourse.
+
+free and open source version control systems. 
+combine changes and pull changes.
+make checkpoints and visit changes.
+no need to make different files just make in one file many changes.
+
+by merging different branches we can combine different things.
+global information tracker.
+git version control system 
+github hosting for git repository on web server
+
+git terminal vs gui terminal
+github desktop is git gui.
