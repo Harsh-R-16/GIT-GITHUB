@@ -21,3 +21,4 @@ so head will be at both branches.
 
 git switch <branch name> to switch to branch name
 
+small command for add and message.
