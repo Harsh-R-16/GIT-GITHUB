@@ -22,3 +22,34 @@ so head will be at both branches.
 git switch <branch name> to switch to branch name
 
 small command for add and message.
+
+git checkout <branch name> to switch to branch name.
+
+switch is new command and checkout is older command
+
+
+git switch -c <branch name> to create a branch and switch to that branch
+git checkout -b <branch name> to create a branch and switch to that branch.
+
+switch c checkout b
+
+without comminting changes we will not be able to switch to another branch
+
+if we create a new file in branch and switch branch then that file will come with that switched branch.
+
+git branch -d delete branch
+git branch -D delete forced branch
+
+we can not delete the branch we are currently on so go to other branch merge with master branch and then delete the branch.
+
+git branch -m <name> to change current branch name to new branch name
+so go to the branch that you want to change name and use git branch -m new name
+
+-d to delete the branch
+-D to forced delete branch no backup
+-m to move/rename the branch
+
+git merge <branch name>
+that will merge <branch name> to current branch name
+
+switch to destination branch and then git merge <branch name>
