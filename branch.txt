@@ -53,3 +53,6 @@ git merge <branch name>
 that will merge <branch name> to current branch name
 
 switch to destination branch and then git merge <branch name>
+
+fast forward merge 
+it is easy to do this
