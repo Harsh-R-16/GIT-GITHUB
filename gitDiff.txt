@@ -1,2 +1,4 @@
 reading git diff.
 diff means different in files.
+
+it is for visualization of changes in unstaged files.
