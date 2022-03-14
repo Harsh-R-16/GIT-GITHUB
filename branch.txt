@@ -59,3 +59,4 @@ it is easy to do this
 
 in merge commit that commit has two parent element because it was after two branch merge so that's why.
 
+i have done this aditional thing on this branch and switch to master branch.
