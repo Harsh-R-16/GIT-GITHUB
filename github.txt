@@ -27,3 +27,18 @@ origin is address of remote repository.
 
 origin is common remote name we can also change this name.
 git remote rename <old> <new>
+
+default branch on github is main branch
+default branch on git is master branch/
+
+so if we dont want to change local master to main branch and want to 
+push our master branch to main branch of git hub then use
+this command git push origin master:main.
+means that master of local repo to main branch of git hub
+
+git push -u origin master
+then it will set upstream so after we can just write git psuh so 
+it will push current branch we are on to that equivalent branch to remote so no need to do git push origin <branch name>
+again and again.
+
+for all branches set upstream and then automatically current branch will be connected to remote branch at remote branch.

@@ -1,0 +1,14 @@
+remote tracking branch
+track work from last branch to current branch last remote branch to curret local branch.
+
+origin/master 
+
+when we clone the repo from github then there two reference are there and
+one is master and other is origin/master .
+
+master is local repo branch and origin/master is remote repo default branch.
+
+if we add changes and commit then we will get message like this
+origin/master is -3 commits behind master branch
+
+git checkout origin/master this will be in deteched head.
