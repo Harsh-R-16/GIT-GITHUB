@@ -1,0 +1,44 @@
+unstaged work ne stash kari save karvu. free
+if do not want to commit thw work in branch and try to switch branch then
+uncommited work may be come in that branch or git will not allow us to switch the branch.
+
+so we can stash the work at that point and switch the branch.
+if we dont want that the changes come with us.
+
+stash uncommited work so that we can return to them later, without having to make unnecessary commits.
+
+git stash or git stash save for saving uncommited work. 
+git stash pop for take changes back.
+
+git stash  
+git stash save 
+git stash pop 
+git stash apply will apply changes and changes also will be in the stash 
+so we can apply changes at multiple places.
+
+git stash apply will also generate merge conflicts same as git merge.
+git stash list for list all stashed changes.
+
+stash is array of stashed changes. pop means last change we
+can apply changes for arr[2] andd so on.
+
+git stash apply stash@{2}
+
+git stash drop stash@{2} for dropping changes.
+
+git stash clear for clearing whole stash
+
+head refers to current branch last commit
+
+git checkout commit#hash 
+so now we will be in deteched head and if we do git switch master the deteched head will be fixed.
+
+deteched head is used to create branch from that commit in past so it it very used.
+
+do git checkout commit#hash and create branch to continue from there.
+
+git checkout HEAD~1 commit before HEAD (parent commit)
+git checkout HEAD~2 commit before HEAD (grandparent commit)
+
+we can goto that commit without using commit hash. so relative commit is used.
+
