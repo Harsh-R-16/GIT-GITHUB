@@ -2,3 +2,18 @@ reading git diff.
 diff means different in files.
 
 it is for visualization of changes in unstaged files.
+
+git add -am message for short cut of add and commit changes
+
+that change are not staged that will be shown by git diff.
+working directory ma unstaged changes will be in git diff and green means added and red means removed.
+
+git diff --staged git diff --cached   
+to see staged changes between last commit and working directory.
+
+git diff HEAD for seeing all changes like unstaged and staged both.
+
+git diff filename --> HEAD filename for all changes from last commit. 
+for seeing changes in particular files.
+
+git diff branch1..branch2 for changes inbetween branches.
