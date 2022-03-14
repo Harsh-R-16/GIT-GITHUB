@@ -7,3 +7,23 @@ cloud hosting platform fot git repositories.
 for collaborating we need online platform fot git repositories.
 
 open source projects ma work karva github is must.
+
+
+open source and collaborating project.
+
+use git clone for cloning existing git projects.
+
+makesure that u are not in git repository before cloning git repo.
+
+in code option green button copy link and git clone <url>
+
+
+git remote -v to know existing remote in details
+git remote to know existing remote in shorts.
+
+git remote add origin <github repo link like we used in cloning>
+
+origin is address of remote repository.
+
+origin is common remote name we can also change this name.
+git remote rename <old> <new>
