@@ -1,0 +1,2 @@
+reading git diff.
+diff means different in files.
