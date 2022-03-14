@@ -1,0 +1,2 @@
+there are many types of merge is available for merge.
+and one of them is fast forward  merging.
