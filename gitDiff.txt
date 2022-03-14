@@ -17,3 +17,13 @@ git diff filename --> HEAD filename for all changes from last commit.
 for seeing changes in particular files.
 
 git diff branch1..branch2 for changes inbetween branches.
+
+changes in branch1 to branch2
+
+git diff commit1..commit2 for changes in between commits.
+commit1 means commit 1 hash first 7 digits
+git log --oneline
+
+git diff for unstaged changes
+git diff --staged for unstaged changes
+git diff HEAD for all changes staged + unstaged changes.
