@@ -56,3 +56,5 @@ switch to destination branch and then git merge <branch name>
 
 fast forward merge 
 it is easy to do this
+
+in merge commit that commit has two parent element because it was after two branch merge so that's why.
