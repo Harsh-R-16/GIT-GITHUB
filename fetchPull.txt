@@ -12,3 +12,17 @@ if we add changes and commit then we will get message like this
 origin/master is -3 commits behind master branch
 
 git checkout origin/master this will be in deteched head.
+
+Your branch is ahead of 'origin/master' by  commit.
+
+if we do git switch <branch name> and that branch is not in local repo but it is in remote repo
+then git will create same branch as remote repo branch name.
+
+git pull means apply changes.
+git fetch means get changes but not apply changes.
+
+git fetch <remote> for all branches changes
+git fetch <remote> <branch name> for particular branch changes
+
+to retrieve the changes we use git pull and git fetch
+pull=fetch+merge.
